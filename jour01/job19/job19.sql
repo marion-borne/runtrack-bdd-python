@@ -1,0 +1,1 @@
+mysql> SELECT COUNT(*) FROM etudiant;

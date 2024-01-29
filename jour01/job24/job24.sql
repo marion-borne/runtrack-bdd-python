@@ -1,0 +1,1 @@
+mysql> SELECT AVG(age) FROM etudiant;
